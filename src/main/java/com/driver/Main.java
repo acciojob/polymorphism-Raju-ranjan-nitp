@@ -1,6 +1,6 @@
 package com.driver;
 
-public class gitMain {
+public class Main {
     public static void main(String[] args) {
         Product p = new Product();
         int result1 = p.product(2,3);
